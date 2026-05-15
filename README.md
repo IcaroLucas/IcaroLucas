@@ -1,5 +1,3 @@
-# 🚀 Olá, eu sou o Icaro!
-
 ### Desenvolvedor Fullstack | Game Developer | 3D Modeler
 
 Sou um desenvolvedor apaixonado por programação, focado em criar soluções eficientes para a web e experiências imersivas em jogos. Desde 2022, venho transformando ideias em código, sempre buscando aprender novas tecnologias e enfrentar desafios que me façam evoluir tecnicamente.
