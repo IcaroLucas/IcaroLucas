@@ -11,10 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IcaroLucas&label=Visitas+no+perfil&color=39d353&style=for-the-badge" alt="Visitas" />
-</p>
-
-<p align="center">
   <b>Transformando linhas de código em aplicações completas, sistemas web e experiências de jogo imersivas.</b> ✨
 </p>
 
