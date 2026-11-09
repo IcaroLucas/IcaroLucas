@@ -28,7 +28,7 @@ const icaro = {
   papel: ["Full Stack Developer", "Game Developer", "3D Modeler"],
   stackFavorita: ["React.js", "Next.js", "Node.js", "NestJS", "Spring Boot"],
   jogos: { linguagem: "Luau", modelagem: "Blender" },
-  construi: "App Android + sistema web com fluxo de pagamentos 💳",
+  construi: "Sistemas web completos com fluxo de pagamentos 💳",
   mentalidade: "Sempre aprendendo, sempre evoluindo 🚀",
   disponivelParaNovosProjetos: true,
 };
@@ -51,9 +51,6 @@ const icaro = {
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-
-<h4>📱 Mobile</h4>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
 
 <h4>🗄️ Bancos de Dados</h4>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -83,36 +80,8 @@ const icaro = {
 
 - 🌐 **Full Stack:** aplicações web modernas com React, Next.js, Node.js e NestJS
 - ☕ **Java no backend:** APIs robustas com Spring Boot
-- 💳 **Integração de sistemas:** web + mobile Android, com fluxos de pagamento e dados
+- 💳 **Integração de sistemas:** aplicações web com fluxos de pagamento e processamento de dados
 - 🎮 **Game Dev:** mecânicas, física e combate em Luau, unidos à modelagem 3D no Blender
-- 🐳 **Em evolução:** aprofundando em Docker e boas práticas de arquitetura
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=IcaroLucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroLucas&layout=compact&theme=tokyonight&langs_count=7" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=IcaroLucas&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IcaroLucas&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
----
-
-### 📌 Projeto em Destaque
-
-<div align="center">
-  <a href="https://github.com/IcaroLucas/FarmBuy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IcaroLucas&repo=FarmBuy&theme=tokyonight" alt="FarmBuy" />
-  </a>
-</div>
 
 ---
 
