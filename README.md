@@ -28,7 +28,6 @@ const icaro = {
   papel: ["Full Stack Developer", "Game Developer", "3D Modeler"],
   stackFavorita: ["React.js", "Next.js", "Node.js", "NestJS", "Spring Boot"],
   jogos: { linguagem: "Luau", modelagem: "Blender" },
-  construi: "Sistemas web completos com fluxo de pagamentos 💳",
   mentalidade: "Sempre aprendendo, sempre evoluindo 🚀",
   disponivelParaNovosProjetos: true,
 };
@@ -80,7 +79,6 @@ const icaro = {
 
 - 🌐 **Full Stack:** aplicações web modernas com React, Next.js, Node.js e NestJS
 - ☕ **Java no backend:** APIs robustas com Spring Boot
-- 💳 **Integração de sistemas:** aplicações web com fluxos de pagamento e processamento de dados
 - 🎮 **Game Dev:** mecânicas, física e combate em Luau, unidos à modelagem 3D no Blender
 
 ---
