@@ -1,60 +1,91 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Ícaro%20Lucas&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Game%20Dev%20%7C%203D&descAlignY=58&descSize=20" alt="Header" />
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=339933&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Ícaro+Lucas!+👋;Desenvolvedor+Fullstack+💻;Game+Developer+🎮;3D+Modeler+🎨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=39D353&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+o+Ícaro+Lucas!+👋;Desenvolvedor+Web+Full+Stack+💻;React+%7C+Next.js+%7C+Node.js+%7C+NestJS+⚡;Java+%2B+Spring+Boot+☕;Game+Developer+em+Luau+🎮;Modelagem+3D+no+Blender+🎨" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Em_Evolução_Contínua-brightgreen?style=for-the-badge&logo=appveyor" />
-  <img src="https://img.shields.io/badge/ADS-Estácio-blue?style=for-the-badge&logo=bookstack" />
+  <img src="https://img.shields.io/badge/Status-Em_Evolução_Contínua-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Foco-Full_Stack-blueviolet?style=for-the-badge&logo=codesandbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aberto_a-Novos_Desafios-orange?style=for-the-badge&logo=handshake&logoColor=white" />
 </p>
 
 <p align="center">
-  Transformando linhas de código em grandes projetos corporativos, web e experiências imersivas de jogos[cite: 1].
+  <img src="https://komarev.com/ghpvc/?username=IcaroLucas&label=Visitas+no+perfil&color=39d353&style=for-the-badge" alt="Visitas" />
+</p>
+
+<p align="center">
+  <b>Transformando linhas de código em aplicações completas, sistemas web e experiências de jogo imersivas.</b> ✨
 </p>
 
 ---
 
-### 💼 Experiência & Trajetória
-* 🏢 **GFX Consultoria:** Atuação no desenvolvimento de soluções tecnológicas e aplicações robustas integrando sistemas web e mobile, com participação em projetos voltados para grandes marcas como **Cielo** e **Heineken**[cite: 1].
+### 👨‍💻 Sobre mim
+
+```js
+const icaro = {
+  nome: "Ícaro Lucas",
+  papel: ["Full Stack Developer", "Game Developer", "3D Modeler"],
+  stackFavorita: ["React.js", "Next.js", "Node.js", "NestJS", "Spring Boot"],
+  jogos: { linguagem: "Luau", modelagem: "Blender" },
+  construi: "App Android + sistema web com fluxo de pagamentos 💳",
+  mentalidade: "Sempre aprendendo, sempre evoluindo 🚀",
+  disponivelParaNovosProjetos: true,
+};
+```
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tech Stack
 
 <div align="center">
 
-  <p><b>🚀 Frontend & Mobile</b></p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
+<h4>🚀 Linguagens &amp; Frontend</h4>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 
-  <p><b>⚙️ Backend</b></p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+<h4>⚙️ Backend</h4>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
 
-  <p><b>🗄️ Banco de Dados & Ferramentas</b></p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<h4>📱 Mobile</h4>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
 
-  <p><b>🎮 Game Dev & Design</b></p>
-  <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Luau" />
-  <img src="https://img.shields.io/badge/Blender-FF9900?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+<h4>🗄️ Bancos de Dados</h4>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL" />
+<img src="https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench" />
+<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
+
+<h4>🧰 Ferramentas</h4>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+
+<h4>🎮 Game Dev &amp; Design</h4>
+<img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Luau" />
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
 
 </div>
 
 ---
 
-### 🎯 Foco e Experiência
+### 🎯 Foco Atual
 
-* 📚 **Evolução Contínua:** Graduando em Análise e Desenvolvimento de Sistemas[cite: 1], sempre aprimorando conhecimentos em arquitetura de microsserviços, ecossistemas modernos e boas práticas de desenvolvimento.
-* 🎮 **Game Development:** Apaixonado por criar mecânicas complexas, sistemas de física e combate, unindo a programação de jogos com modelagem 3D.
-* 🚀 **Novos Desafios:** Em busca de oportunidades para aplicar minha stack técnica e colaborar em projetos inovadores de grande escala.
+- 🌐 **Full Stack:** aplicações web modernas com React, Next.js, Node.js e NestJS
+- ☕ **Java no backend:** APIs robustas com Spring Boot
+- 💳 **Integração de sistemas:** web + mobile Android, com fluxos de pagamento e dados
+- 🎮 **Game Dev:** mecânicas, física e combate em Luau, unidos à modelagem 3D no Blender
+- 🐳 **Em evolução:** aprofundando em Docker e boas práticas de arquitetura
 
 ---
 
@@ -64,6 +95,24 @@
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=IcaroLucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroLucas&layout=compact&theme=tokyonight&langs_count=7" alt="Top Langs" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=IcaroLucas&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IcaroLucas&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+---
+
+### 📌 Projeto em Destaque
+
+<div align="center">
+  <a href="https://github.com/IcaroLucas/FarmBuy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IcaroLucas&repo=FarmBuy&theme=tokyonight" alt="FarmBuy" />
+  </a>
+</div>
 
 ---
 
@@ -78,6 +127,4 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://readme-stats.vercel.app/api/pin/?username=IcaroLucas&repo=FarmBuy&theme=tokyonight" alt="Pinned Repo" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="Footer" />
